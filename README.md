@@ -1,6 +1,6 @@
 ITI-Git-Task-22
 
-Annotated tags VS Lightweight tags
+##Annotated tags VS Lightweight tags
 
 to create a lightweight tag
 
